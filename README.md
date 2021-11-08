@@ -1,6 +1,7 @@
-# Natural Instructions 
+# Natural Instructions  
 
-Natural-Instructions is a dataset of various NLP tasks and their language instructions. 
+This is an anonymized version of Natural-Instructions for ARR reviews. 
+This dataset contains various NLP tasks and their language instructions. 
 We have built this data using existing NLP datasets and the instructions that were used to crowdsource them. 
 
 ## Dataset 
